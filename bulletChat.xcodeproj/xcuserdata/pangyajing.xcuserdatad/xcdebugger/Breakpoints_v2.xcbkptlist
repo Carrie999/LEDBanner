@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5845E586-737D-46D3-8F8D-2B341C5A4E12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bulletChat/SettingView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "SettingView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - 18d9a9a2d8199ee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of bulletChat.SettingView.isPurchased : Swift.Bool"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/bulletChat/SettingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - 529f9a07f7133b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bulletChat.SettingView.isPurchased.getter : Swift.Bool"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/bulletChat/SettingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - e35d70e3bce61129"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bulletChat.SettingView.isPurchased.setter : Swift.Bool"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/bulletChat/SettingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - 5607f8c7d7731f38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bulletChat.SettingView.isPurchased.modify : Swift.Bool"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/bulletChat/SettingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - 38100f13fd61a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bulletChat.SettingView.isPurchased.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - 4ea8288d4e36b971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bulletChat.SettingView.$isPurchased.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/bulletChat/SettingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "C64BCB3C-EFF0-4021-AA35-AEDA975DD7E1 - f3dc709e5cb52219"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of bulletChat.SettingView.init(presentationMode: SwiftUI.Environment&lt;SwiftUI.Binding&lt;SwiftUI.PresentationMode&gt;&gt;, isPurchased: Swift.Bool) -&gt; bulletChat.SettingView"
+                  moduleName = "bulletChat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pangyajing/Desktop/project/bulletChat/bulletChat/SettingView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

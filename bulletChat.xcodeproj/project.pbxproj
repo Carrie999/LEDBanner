@@ -7,20 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		76618A5A2BF9FD2A00AF46FC /* banner.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 76618A592BF9FD2A00AF46FC /* banner.storekit */; };
+		76618A5C2BF9FE0A00AF46FC /* propertyList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 76618A5B2BF9FE0A00AF46FC /* propertyList.plist */; };
+		76618A5E2BF9FE6E00AF46FC /* sendMailSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76618A5D2BF9FE6E00AF46FC /* sendMailSwiftUIView.swift */; };
+		76618A602BF9FFC900AF46FC /* ProSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76618A5F2BF9FFC900AF46FC /* ProSwiftUIView.swift */; };
+		76618A622BFA000D00AF46FC /* storeKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76618A612BFA000D00AF46FC /* storeKitManager.swift */; };
+		7686BF0A2C6F41AA00F24438 /* Marquee in Frameworks */ = {isa = PBXBuildFile; productRef = 7686BF092C6F41AA00F24438 /* Marquee */; };
+		76DCDC532C5FA6CE00A00462 /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 76DCDC522C5FA6CE00A00462 /* InfoPlist.xcstrings */; };
 		76E81AB02BE9FE44007899B0 /* bulletChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81AAF2BE9FE44007899B0 /* bulletChatApp.swift */; };
 		76E81AB22BE9FE44007899B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81AB12BE9FE44007899B0 /* ContentView.swift */; };
-		76E81AB42BE9FE44007899B0 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81AB32BE9FE44007899B0 /* Item.swift */; };
 		76E81AB62BE9FE46007899B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76E81AB52BE9FE46007899B0 /* Assets.xcassets */; };
 		76E81AB92BE9FE46007899B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76E81AB82BE9FE46007899B0 /* Preview Assets.xcassets */; };
+		76E81AC02BEA1132007899B0 /* SwiftExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81ABF2BEA1132007899B0 /* SwiftExtention.swift */; };
+		76E81AC42BEA1462007899B0 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81AC32BEA1462007899B0 /* SettingView.swift */; };
+		76E81AC62BEA2F6D007899B0 /* LedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81AC52BEA2F6D007899B0 /* LedView.swift */; };
+		76E81AE72BECA035007899B0 /* textView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76E81AE62BECA035007899B0 /* textView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		76618A592BF9FD2A00AF46FC /* banner.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = banner.storekit; sourceTree = "<group>"; };
+		76618A5B2BF9FE0A00AF46FC /* propertyList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = propertyList.plist; sourceTree = "<group>"; };
+		76618A5D2BF9FE6E00AF46FC /* sendMailSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sendMailSwiftUIView.swift; sourceTree = "<group>"; };
+		76618A5F2BF9FFC900AF46FC /* ProSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProSwiftUIView.swift; sourceTree = "<group>"; };
+		76618A612BFA000D00AF46FC /* storeKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = storeKitManager.swift; sourceTree = "<group>"; };
+		76DCDC522C5FA6CE00A00462 /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		76E81AAC2BE9FE44007899B0 /* bulletChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bulletChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76E81AAF2BE9FE44007899B0 /* bulletChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bulletChatApp.swift; sourceTree = "<group>"; };
 		76E81AB12BE9FE44007899B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		76E81AB32BE9FE44007899B0 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		76E81AB52BE9FE46007899B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76E81AB82BE9FE46007899B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		76E81ABF2BEA1132007899B0 /* SwiftExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftExtention.swift; sourceTree = "<group>"; };
+		76E81AC32BEA1462007899B0 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		76E81AC52BEA2F6D007899B0 /* LedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LedView.swift; sourceTree = "<group>"; };
+		76E81AE62BECA035007899B0 /* textView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = textView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,6 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7686BF0A2C6F41AA00F24438 /* Marquee in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -37,6 +57,7 @@
 		76E81AA32BE9FE44007899B0 = {
 			isa = PBXGroup;
 			children = (
+				76DCDC522C5FA6CE00A00462 /* InfoPlist.xcstrings */,
 				76E81AAE2BE9FE44007899B0 /* bulletChat */,
 				76E81AAD2BE9FE44007899B0 /* Products */,
 			);
@@ -55,7 +76,15 @@
 			children = (
 				76E81AAF2BE9FE44007899B0 /* bulletChatApp.swift */,
 				76E81AB12BE9FE44007899B0 /* ContentView.swift */,
-				76E81AB32BE9FE44007899B0 /* Item.swift */,
+				76E81AE62BECA035007899B0 /* textView.swift */,
+				76E81AC52BEA2F6D007899B0 /* LedView.swift */,
+				76E81AC32BEA1462007899B0 /* SettingView.swift */,
+				76618A5D2BF9FE6E00AF46FC /* sendMailSwiftUIView.swift */,
+				76618A5F2BF9FFC900AF46FC /* ProSwiftUIView.swift */,
+				76618A612BFA000D00AF46FC /* storeKitManager.swift */,
+				76618A592BF9FD2A00AF46FC /* banner.storekit */,
+				76618A5B2BF9FE0A00AF46FC /* propertyList.plist */,
+				76E81ABF2BEA1132007899B0 /* SwiftExtention.swift */,
 				76E81AB52BE9FE46007899B0 /* Assets.xcassets */,
 				76E81AB72BE9FE46007899B0 /* Preview Content */,
 			);
@@ -86,6 +115,9 @@
 			dependencies = (
 			);
 			name = bulletChat;
+			packageProductDependencies = (
+				7686BF092C6F41AA00F24438 /* Marquee */,
+			);
 			productName = bulletChat;
 			productReference = 76E81AAC2BE9FE44007899B0 /* bulletChat.app */;
 			productType = "com.apple.product-type.application";
@@ -112,8 +144,14 @@
 			knownRegions = (
 				en,
 				Base,
+				ja,
+				"zh-Hans",
+				es,
 			);
 			mainGroup = 76E81AA32BE9FE44007899B0;
+			packageReferences = (
+				7686BF082C6F41AA00F24438 /* XCRemoteSwiftPackageReference "Marquee" */,
+			);
 			productRefGroup = 76E81AAD2BE9FE44007899B0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -129,6 +167,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				76E81AB92BE9FE46007899B0 /* Preview Assets.xcassets in Resources */,
+				76DCDC532C5FA6CE00A00462 /* InfoPlist.xcstrings in Resources */,
+				76618A5C2BF9FE0A00AF46FC /* propertyList.plist in Resources */,
+				76618A5A2BF9FD2A00AF46FC /* banner.storekit in Resources */,
 				76E81AB62BE9FE46007899B0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,8 +182,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				76E81AB22BE9FE44007899B0 /* ContentView.swift in Sources */,
-				76E81AB42BE9FE44007899B0 /* Item.swift in Sources */,
+				76E81AC42BEA1462007899B0 /* SettingView.swift in Sources */,
+				76618A602BF9FFC900AF46FC /* ProSwiftUIView.swift in Sources */,
+				76E81AC62BEA2F6D007899B0 /* LedView.swift in Sources */,
+				76E81AE72BECA035007899B0 /* textView.swift in Sources */,
+				76618A622BFA000D00AF46FC /* storeKitManager.swift in Sources */,
+				76E81AC02BEA1132007899B0 /* SwiftExtention.swift in Sources */,
 				76E81AB02BE9FE44007899B0 /* bulletChatApp.swift in Sources */,
+				76618A5E2BF9FE6E00AF46FC /* sendMailSwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -201,7 +248,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -258,7 +305,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -276,19 +323,24 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"bulletChat/Preview Content\"";
+				DEVELOPMENT_TEAM = F7TRH9293R;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "LED Banner";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = study.com.test.bulletChat;
+				MARKETING_VERSION = 1.5;
+				PRODUCT_BUNDLE_IDENTIFIER = saintgirl.com.ledbanner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -304,19 +356,24 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"bulletChat/Preview Content\"";
+				DEVELOPMENT_TEAM = F7TRH9293R;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "LED Banner";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = study.com.test.bulletChat;
+				MARKETING_VERSION = 1.5;
+				PRODUCT_BUNDLE_IDENTIFIER = saintgirl.com.ledbanner;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -346,6 +403,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		7686BF082C6F41AA00F24438 /* XCRemoteSwiftPackageReference "Marquee" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftUIKit/Marquee";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.3.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		7686BF092C6F41AA00F24438 /* Marquee */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7686BF082C6F41AA00F24438 /* XCRemoteSwiftPackageReference "Marquee" */;
+			productName = Marquee;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 76E81AA42BE9FE44007899B0 /* Project object */;
 }
